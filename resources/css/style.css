@@ -1,12 +1,29 @@
 
-#blackbackground{
+body {
   background-color: black;
+  display block;
+  text-align: center;
+  color: white;
 }
 
-.hiddenplaces {
+.hiddenplaces h1 {
   font-family: Verdana;
   font-weight: normal;
-  font-size: 500px;
+  font-size: 50px;
   color: white;
   text-align: center;
-  }
+}
+
+#comesoon {
+  
+  color: aquamarine;
+  font-size: 16px;
+
+
+
+}
+
+
+video {
+    object-fit: contain;
+}
