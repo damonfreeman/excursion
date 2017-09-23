@@ -14,7 +14,7 @@ body {
   text-align: center;
 }
 
-#comesoon {
+#download {
   color: aquamarine;
   font-size: 16px;
 }
@@ -34,4 +34,10 @@ video {
   font-family: verdana;
   color: gray;
   font-size: 21px;
+}
+
+.comingsoon {
+  font-family: verdana;
+  font-weight: 300px;
+  font-size: 42px;
 }
